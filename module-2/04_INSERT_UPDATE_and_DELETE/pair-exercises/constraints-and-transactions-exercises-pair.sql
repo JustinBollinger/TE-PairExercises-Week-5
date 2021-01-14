@@ -5,6 +5,8 @@
 -- countrycode is 'USA', and population of 45001. (Yes, I looked it up on 
 -- Wikipedia.)
 
+INSERT IN
+
 
 
 -- 2. Add Kryptonese to the countrylanguage table. Kryptonese is spoken by 0.0001
